@@ -1,2 +1,3 @@
 # newo-repo
-My Hello, this is my first repository - in GitHub
+مرحبًا ، هذا هو مستودعي الأول - في GitHub
+Linux and Termanix tools will be created
